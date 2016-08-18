@@ -2,7 +2,7 @@
 
 ## Lesson
 
-Slides: https://docs.google.com/presentation/d/17B_zWrDUNdW0NpjxwdsBKZDrjhxKrVWplQ7PC7WC3XM/edit?usp=sharing
+[Slides](https://docs.google.com/presentation/d/17B_zWrDUNdW0NpjxwdsBKZDrjhxKrVWplQ7PC7WC3XM/edit?usp=sharing)
 
 ## Exercises
 
